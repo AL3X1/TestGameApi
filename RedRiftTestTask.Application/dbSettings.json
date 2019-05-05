@@ -1,0 +1,3 @@
+{
+  "connectionString": "Host=localhost;Port=5432;Database=RedRiftTestDb;Username=postgres;Password=123456;"
+}
